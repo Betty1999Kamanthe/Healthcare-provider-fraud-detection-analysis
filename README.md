@@ -11,3 +11,17 @@ c) Misrepresenting the service provided.
 d) Charging for a more complex or expensive service than was actually provided.
 
 e) Billing for a covered service when the service actually provided was not covered.
+
+The goal is to:
+- Predict the potentially fraudulent providers
+- Discover important variables helpful in detecting the behaviour of potentially fraudulent providers
+- Study fraudulent patterns in the provider's claim
+
+STEP 0 : Data Preparation
+-Clean data
+-Look at relevant features
+STEP 1 :Supervised learning
+STEP 2 : Anomaly detection
+STEP 3 : Time series analytics and Dynamic limits
+STEP 4 : Intergration
+
